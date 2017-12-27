@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="407px" height="423px" viewBox="0 0 407 423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 129.983918 0 0 108.946437 0 108.946437 129.983918"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="QuickChain" transform="translate(-875.000000, -700.000000)">
+            <g id="Une-organisation" transform="translate(205.000000, 700.000000)">
+                <g id="Group-8" transform="translate(670.000000, 0.000000)">
+                    <ellipse id="Oval-12" stroke="#D5D9E2" stroke-width="3" stroke-dasharray="6" cx="202.155829" cy="211.995261" rx="162.155829" ry="161.995261"></ellipse>
+                    <path d="M203.5,329.5 L203.5,77.4504017" id="Line" stroke="#D5D9E2" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></path>
+                    <path d="M84.5,203.5 L336.549598,203.5" id="Line" stroke="#D5D9E2" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></path>
+                    <g id="Page-1" transform="translate(160.017370, 0.000000)">
+                        <polygon id="Fill-1" fill="#B0BECC" points="42.6217099 4.05417217e-05 0.000121775966 24.7304908 42.8242639 49.0555238 85.242892 24.7304908"></polygon>
+                        <polygon id="Fill-2" fill="#DDE2EC" points="0 74.5966463 42.6215881 98.8065408 42.6215881 49.0553616 0 24.730734"></polygon>
+                        <polygon id="Fill-3" fill="#C3CDD8" points="42.6217099 49.0553616 42.6217099 98.8065408 42.8242639 98.9216793 85.242892 74.5966463 85.242892 24.730734"></polygon>
+                    </g>
+                    <g id="Page-1-Copy-3" transform="translate(160.017370, 324.078199)">
+                        <polygon id="Fill-1" fill="#B0BECC" points="42.6217099 4.05417218e-05 0.000121775966 24.7304908 42.8242639 49.0555238 85.242892 24.7304908"></polygon>
+                        <polygon id="Fill-2" fill="#DDE2EC" points="0 74.5966463 42.6215881 98.8065408 42.6215881 49.0553616 0 24.730734"></polygon>
+                        <polygon id="Fill-3" fill="#C3CDD8" points="42.6217099 49.0553616 42.6217099 98.8065408 42.8242639 98.9216793 85.242892 74.5966463 85.242892 24.730734"></polygon>
+                    </g>
+                    <g id="Page-1-Copy" transform="translate(0.000000, 154.727488)">
+                        <polygon id="Fill-1" fill="#B0BECC" points="42.6217099 4.05417217e-05 0.000121775966 24.7304908 42.8242639 49.0555238 85.242892 24.7304908"></polygon>
+                        <polygon id="Fill-2" fill="#DDE2EC" points="0 74.5966463 42.6215881 98.8065408 42.6215881 49.0553616 0 24.730734"></polygon>
+                        <polygon id="Fill-3" fill="#C3CDD8" points="42.6217099 49.0553616 42.6217099 98.8065408 42.8242639 98.9216793 85.242892 74.5966463 85.242892 24.730734"></polygon>
+                    </g>
+                    <g id="Page-1-Copy-2" transform="translate(321.756824, 154.727488)">
+                        <polygon id="Fill-1" fill="#B0BECC" points="42.6217099 4.05417217e-05 0.000121775966 24.7304908 42.8242639 49.0555238 85.242892 24.7304908"></polygon>
+                        <polygon id="Fill-2" fill="#DDE2EC" points="0 74.5966463 42.6215881 98.8065408 42.6215881 49.0553616 0 24.730734"></polygon>
+                        <polygon id="Fill-3" fill="#C3CDD8" points="42.6217099 49.0553616 42.6217099 98.8065408 42.8242639 98.9216793 85.242892 74.5966463 85.242892 24.730734"></polygon>
+                    </g>
+                    <g id="shield" transform="translate(150.000000, 143.000000)">
+                        <g id="Group-3">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M108.946437,23.6412371 L108.946437,59.9608247 C108.946437,93.0371134 86.5036855,121.878351 54.4464373,130 C22.4427518,121.905155 0,93.0371134 0,59.9608247 L0,23.6412371 C25.2012285,20.8 39.4756757,11.2041237 54.4732187,0 C69.4707617,11.2041237 83.7452088,20.8 108.946437,23.6412371" id="Fill-1" fill="#D8B7FC" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M54.4732187,115.659794 C30.3432432,107.993814 13.765602,85.585567 13.765602,59.9608247 L13.765602,35.3546392 C30.7181818,31.6556701 43.1714988,24.8206186 54.4732187,17.0206186 C66.0159705,25.0350515 78.2282555,31.7360825 95.1808354,35.3814433 L95.1808354,59.9876289 C95.1808354,85.585567 78.6031941,107.993814 54.4732187,115.659794" id="Fill-4" fill="#9C56E9"></path>
+                        <polyline id="Fill-5" fill="#FFFFFF" points="45.4479115 87.2206186 32.0304668 73.7917526 38.8329238 66.956701 45.4479115 73.5505155 70.1135135 48.8907216 76.9159705 55.6989691 45.4479115 87.2206186"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

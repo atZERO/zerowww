@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 52.2 52.1"
+   version="1.1"
+   id="svg4527"
+   sodipodi:docname="retail-icon-blue.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata4531">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview4529"
+     showgrid="false"
+     inkscape:zoom="4.5297506"
+     inkscape:cx="26.1"
+     inkscape:cy="26.049999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4527" />
+  <defs
+     id="defs4502">
+    <path
+       id="a"
+       d="M9.1 8.2h34.7v41.1H9.1z" />
+  </defs>
+  <clipPath
+     id="b">
+    <use
+       xlink:href="#a"
+       overflow="visible"
+       id="use4504" />
+  </clipPath>
+  <path
+     d="M32.9 19.6h-9.6c-.3 0-.6-.3-.6-.6s.3-.6.6-.6h9.6c.3 0 .6.3.6.6s-.3.6-.6.6"
+     clip-path="url(#b)"
+     fill="#fff"
+     id="path4507"
+     style="fill:#0000ff" />
+  <path
+     d="M32.9 19.6h-9.6c-.3 0-.6-.3-.6-.6s.3-.6.6-.6h9.6c.3 0 .6.3.6.6s-.3.6-.6.6z"
+     clip-path="url(#b)"
+     fill="none"
+     stroke="#fff"
+     stroke-width=".197"
+     stroke-miterlimit="10"
+     id="path4509"
+     style="fill:#0000ff" />
+  <path
+     d="M43.1 49.1H9.8c-.2 0-.3-.1-.4-.2-.1-.1-.2-.3-.1-.4l2.9-29.6c0-.3.3-.5.6-.5H20c.3 0 .6.3.6.6s-.3.6-.6.6h-6.7L10.4 48h32L39 19.6h-3c-.3 0-.6-.3-.6-.6s.3-.6.6-.6h3.5c.3 0 .5.2.6.5l3.5 29.6c0 .2 0 .3-.1.5-.1.1-.3.1-.4.1"
+     clip-path="url(#b)"
+     fill="#fff"
+     id="path4511"
+     style="fill:#0000ff" />
+  <path
+     d="M43.1 49.1H9.8c-.2 0-.3-.1-.4-.2-.1-.1-.2-.3-.1-.4l2.9-29.6c0-.3.3-.5.6-.5H20c.3 0 .6.3.6.6s-.3.6-.6.6h-6.7L10.4 48h32L39 19.6h-3c-.3 0-.6-.3-.6-.6s.3-.6.6-.6h3.5c.3 0 .5.2.6.5l3.5 29.6c0 .2 0 .3-.1.5-.1.1-.3.1-.4.1z"
+     clip-path="url(#b)"
+     fill="none"
+     stroke="#fff"
+     stroke-width=".197"
+     stroke-miterlimit="10"
+     id="path4513"
+     style="fill:#0000ff" />
+  <path
+     d="M32.9 24.2c-.3 0-.6-.3-.6-.6v-8.9c0-2.9-2.4-5.3-5.3-5.3h-1.2c-2.9 0-5.3 2.4-5.3 5.3v8.9c0 .3-.3.6-.6.6s-.6-.3-.6-.6v-8.9c0-3.6 2.9-6.5 6.5-6.5H27c3.6 0 6.5 2.9 6.5 6.5v8.9c0 .4-.3.6-.6.6"
+     clip-path="url(#b)"
+     fill="#fff"
+     id="path4515"
+     style="fill:#0000ff" />
+  <path
+     d="M32.9 24.2c-.3 0-.6-.3-.6-.6v-8.9c0-2.9-2.4-5.3-5.3-5.3h-1.2c-2.9 0-5.3 2.4-5.3 5.3v8.9c0 .3-.3.6-.6.6s-.6-.3-.6-.6v-8.9c0-3.6 2.9-6.5 6.5-6.5H27c3.6 0 6.5 2.9 6.5 6.5v8.9c0 .4-.3.6-.6.6z"
+     clip-path="url(#b)"
+     fill="none"
+     stroke="#fff"
+     stroke-width=".197"
+     stroke-miterlimit="10"
+     id="path4517"
+     style="fill:#0000ff" />
+  <path
+     d="M20 28.4c-1.8 0-3.2-1.4-3.2-3.2 0-1.8 1.4-3.2 3.2-3.2 1.8 0 3.2 1.4 3.2 3.2 0 1.7-1.5 3.2-3.2 3.2m0-5.3c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2c0-1-.9-2-2-2"
+     clip-path="url(#b)"
+     fill="#fff"
+     id="path4519"
+     style="fill:#0000ff" />
+  <path
+     d="M20 28.4c-1.8 0-3.2-1.4-3.2-3.2 0-1.8 1.4-3.2 3.2-3.2 1.8 0 3.2 1.4 3.2 3.2 0 1.7-1.5 3.2-3.2 3.2zm0-5.3c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2c0-1-.9-2-2-2z"
+     clip-path="url(#b)"
+     fill="none"
+     stroke="#fff"
+     stroke-width=".197"
+     stroke-miterlimit="10"
+     id="path4521"
+     style="fill:#0000ff" />
+  <path
+     d="M32.9 28.4c-1.8 0-3.2-1.4-3.2-3.2 0-1.8 1.4-3.2 3.2-3.2 1.8 0 3.2 1.4 3.2 3.2 0 1.7-1.4 3.2-3.2 3.2m0-5.3c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2c0-1-.9-2-2-2"
+     clip-path="url(#b)"
+     fill="#fff"
+     id="path4523"
+     style="fill:#0000ff" />
+  <path
+     d="M32.9 28.4c-1.8 0-3.2-1.4-3.2-3.2 0-1.8 1.4-3.2 3.2-3.2 1.8 0 3.2 1.4 3.2 3.2 0 1.7-1.4 3.2-3.2 3.2zm0-5.3c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2c0-1-.9-2-2-2z"
+     clip-path="url(#b)"
+     fill="none"
+     stroke="#fff"
+     stroke-width=".197"
+     stroke-miterlimit="10"
+     id="path4525"
+     style="fill:#0000ff" />
+</svg>
